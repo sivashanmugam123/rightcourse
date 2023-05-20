@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/dc091c2e-26fd-49ca-a6ad-cfd608932e6c/resourceGroups/mysqlgp/providers/Microsoft.Web/sites/rightcourse",
+    "appService.deploySubpath": "."
+}
